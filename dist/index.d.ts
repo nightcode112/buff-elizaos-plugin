@@ -3,6 +3,7 @@
  *
  * Buff round-up investing plugin for ElizaOS.
  * Auto-invests spare change from every agent transaction into crypto assets.
+ * Uses the Buff API (server-side fee enforcement) — no sensitive logic here.
  *
  * Actions:
  *   BUFF_ROUNDUP     — Record a round-up from a transaction
